@@ -1,0 +1,13 @@
+﻿l_english:
+ LAM_fascism:0 "Lambda Reclamation State"
+ LAM_fascism_DEF:0 "The Lambda Reclamation State"
+ LAM_democratic:0 "Lambda Republic"
+ LAM_democratic_DEF:0 "The Lambda Republic"
+ LAM_neutrality:0 "Lambda State"
+ LAM_neutrality_DEF:0 "The Lambda State"
+ LAM_communism:0 "Lambda People's Republic"
+ LAM_communism_DEF:0 "The Lambda People's Republic"
+ LAM_fascism_ADJ:0 "Lambda"
+ LAM_democratic_ADJ:0 "Lambda"
+ LAM_neutrality_ADJ:0 "Lambda"
+ LAM_communism_ADJ:0 "Lambda"
