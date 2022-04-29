@@ -27,8 +27,6 @@ state={
 			}
 		}
 		add_core_of = LAM
-		
-		}
 	}
 
 	local_supplies=0.0 
