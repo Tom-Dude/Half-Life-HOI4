@@ -1,0 +1,18 @@
+characters = {
+	LAM_isaac_kleiner = {
+		name = "Isaac Kleiner"
+
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/LAM/Portrait_LAM_isaac_kleiner.dds"
+			}
+		}
+
+		country_leader = {
+			ideology = moderatism
+			traits = { scientist }
+			expire = "1953.3.1.1"
+			id = -1
+		}
+	}
+}
