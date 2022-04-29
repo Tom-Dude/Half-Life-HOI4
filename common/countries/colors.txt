@@ -1,0 +1,4 @@
+LAM = {
+    color = rbg { 252 157 3 }
+    color_ui = rgb { 252 157 3 }
+}
