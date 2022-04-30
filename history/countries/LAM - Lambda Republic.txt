@@ -105,11 +105,11 @@ set_popularities = {
 	neutrality = 5
 }
 
+recruit_character = LAM_isaac_kleiner
+
 set_politics = {
 	ruling_party = democratic
 	last_election = "1932.11.8"
 	election_frequency = 48
 	elections_allowed = no
 }
-
-recruit_character = LAM_isaac_kleiner
