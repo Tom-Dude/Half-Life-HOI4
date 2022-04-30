@@ -111,13 +111,3 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 }
-create_country_leader = {
-    name = "Isaac Kleiner"
-    desc = ""
-    picture = "gfx/leaders/Europe/Portrait_LAM_Isaac_Kleiner.dds"
-	expire = "1965.1.1"
-    ideology = moderatism
-    traits = {
-        #
-    }
-}
