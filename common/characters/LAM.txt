@@ -13,6 +13,7 @@ characters = {
 			traits = { scientist }
 			expire = "1965.1.1"
 			id = -1
+			desc = "Placeholder"
 		}
 	}
 }
