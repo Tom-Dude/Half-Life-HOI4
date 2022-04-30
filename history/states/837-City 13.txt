@@ -1,0 +1,23 @@
+state={
+	id=837
+	name = "STATE_837"
+	history = {
+		owner = FRA
+		building = {
+			infrastructure = 4
+		}
+		add_core_of = OCC
+		add_core_of = FRA
+		victory_points = {
+			6613 10
+		}
+	}
+
+	provinces = {
+		6613 
+	}
+	manpower = 1852295
+	buildings_max_level_factor = 1.000
+	state_category = large_city
+	local_supplies = 7.000
+}

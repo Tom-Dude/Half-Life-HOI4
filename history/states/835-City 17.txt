@@ -1,0 +1,21 @@
+state={
+	id=835
+	name="STATE_835"
+	history={
+		owner = LAM
+		add_core_of = LAM
+		building = {
+			infrastructure = 5
+		}
+		victory_points = {
+			949 15
+		}
+	}
+	provinces = {
+		949 
+	}
+	manpower=699603
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=metropolis
+}

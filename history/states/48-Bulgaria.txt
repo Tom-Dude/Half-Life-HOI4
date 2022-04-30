@@ -2,21 +2,14 @@
 state={
 	id=48
 	name="STATE_48"
-	manpower = 1685989
 	resources={
-		aluminium = 2
+		aluminium=2.000
 	}
-	
-	
-	state_category = city
 
 	history={
 		owner = LAM
-		victory_points = { #Sofia
-			949 15 
-		}
-		victory_points = { #Vidin
-			9771 1
+		victory_points = {
+			9771 1 
 		}
 		buildings = {
 			infrastructure = 3
@@ -27,8 +20,10 @@ state={
 	}
 
 	provinces={
-		793 935 949 965 3908 3971 9771 11754 
+		793 935 965 3908 3971 9771 11754 
 	}
-
-	local_supplies=0.0 
+	manpower=1685989
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
 }
