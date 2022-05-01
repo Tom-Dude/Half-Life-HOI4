@@ -1,4 +1,5 @@
 name="Half-Life-HOI4"
+version = "dev"
 tags={
     "Events"
     "Gameplay"
