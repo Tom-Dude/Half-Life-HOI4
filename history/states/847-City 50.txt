@@ -1,10 +1,24 @@
 state={
 	id=847
 	name="STATE_847"
+	history = {
+		owner = NZL
+		add_core_of = NZL
+		buildings = {
+			infrastructure = 3
+			2197 = {
+				naval_base = 1
+			}
+		}
+		victory_points = {
+			2197 1 
+		}
+	}
 	provinces={
 		2197 
 	}
-	manpower=0
+	manpower=211441
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
+	state_category = large_town
 }

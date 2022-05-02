@@ -1,10 +1,20 @@
 state={
 	id=845
 	name="STATE_845"
+	history = {
+		owner = ENG
+		add_core_of = ISR
+		add_core_of = PAL
+		buildings = {
+			infrastructure = 3
+		}
+
+	}
 	provinces={
 		1201 
 	}
-	manpower=0
+	manpower=168566
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
+	state_category=large_town
 }
