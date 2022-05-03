@@ -1,10 +1,18 @@
 state={
 	id=840
 	name="STATE_840"
+	history = {
+		owner = USA
+		add_core_of = USA
+		buildings = {
+			infrastructure = 3
+		}
+	}
 	provinces={
 		1445 
 	}
-	manpower=0
+	manpower=200083
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
+	state_category=city
 }
