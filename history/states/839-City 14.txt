@@ -10,10 +10,11 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
+	}
 	provinces={
 		9427 
 	}
-	manpower=472776
+	manpower = 472776
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 	state_category = large_city

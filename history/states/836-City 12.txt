@@ -4,14 +4,14 @@ state={
 	history = {
 		owner = ENG
 		add_core_of = ENG
-		building = {
+		buildings = {
 			infrastrucure = 4
 		}
 	}
 	provinces={
 		3205 
 	}
-	manpower=542779
+	manpower = 542779
 	buildings_max_level_factor=1.000
 	state_category=metropolis
 	local_supplies=0.000
