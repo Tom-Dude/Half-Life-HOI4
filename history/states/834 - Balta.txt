@@ -1,12 +1,9 @@
 
-state = {
-	id = 834
-	name = "STATE_834"
-	manpower = 183748
-	
-	state_category = rural
+state={
+	id=834
+	name="STATE_834"
 
-	history = {
+	history={
 		owner = LAM
 		victory_points = {
 			3757 2 
@@ -15,15 +12,18 @@ state = {
 			741 1 
 		}
 		buildings = {
-		
-			infrastructure = 2	
+			infrastructure = 2
+
 		}
 		add_core_of = LAM
+
 	}
 
-	provinces = {
-		741 754 3757 9576
+	provinces={
+		741 754 
 	}
-
-	local_supplies = 6.0 
+	manpower=183748
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=6.000
 }
